@@ -12,7 +12,7 @@ function ContactList() {
     const fetchContacts = async () => {
       try {
         const response = await axios.get(
-          "http://127.0.0.1:5274/api/Form/contacts"
+          "http://localhost:5201/api/form/contacts"
         );
         setContacts(response.data); // 必要に応じてデータの取得形式を調整
       } catch (error) {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Adomin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b0f27632b12afe7a0d03b4c9b937c0e1e636eae6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+971aacf606cca7e2404abd83176a553cc2c595ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("Adomin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Adomin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

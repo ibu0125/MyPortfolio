@@ -20,7 +20,7 @@ function Form() {
 
     try {
       const response = await axios.post(
-        "http://localhost:5274/api/Form/submit",
+        "http://localhost:5201/api/form/submit",
         user,
         {
           headers: {
